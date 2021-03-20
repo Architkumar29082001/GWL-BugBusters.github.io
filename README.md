@@ -7,3 +7,4 @@ Our team:
 4. Pradhumna Rajput
 5. Ashish Vats
 6. Paritosh Nimdeo 
+7. Satwik Nayak
