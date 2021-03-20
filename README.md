@@ -1,4 +1,4 @@
 ### Hello there, We are BugBusters
 
 Our team:
-*Kartikey Khanna (Coder)
+1. Kartikey Khanna (Coder)
