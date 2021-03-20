@@ -6,3 +6,4 @@ Our team:
 3. Aviral Srivastava
 4. Pradhumna Rajput
 5. Ashish Vats
+6. Paritosh Nimdeo 
