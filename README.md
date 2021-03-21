@@ -8,3 +8,4 @@ Our team:
 5. Ashish Vats
 6. Paritosh Nimdeo 
 7. Satwik Nayak
+8. Aditya (Coder)
